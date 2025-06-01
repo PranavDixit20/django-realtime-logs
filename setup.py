@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name='django-realtime-logs',
-    version='0.1.1',
+    version='0.1.2',
     description='Realtime log viewer for Django using Channels',
     long_description=README,
     long_description_content_type='text/markdown',
